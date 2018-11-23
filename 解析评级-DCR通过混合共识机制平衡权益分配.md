@@ -22,21 +22,21 @@
 ### 市场及产品分析
 评级精确列出Decred的几个特点和持续发展的场景。值得补充的是
 
-1. Decred项目做出了第一个跨链原子交换。Decred在2017年9月已经宣布成功完成了[第一个跨链原子交换](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/)(这次原子交换是DCR和LTC的互换)。同时Decred也分享了第一个原子交换工具。后来市面上原子交换都是基于这个工具发展开来的。
+* Decred项目做出了第一个跨链原子交换。Decred在2017年9月已经宣布成功完成了[第一个跨链原子交换](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/)(这次原子交换是DCR和LTC的互换)。同时Decred也分享了第一个原子交换工具。后来市面上原子交换都是基于这个工具发展开来的。
 
-2. DCR的特有PoS+PoW混合共识机制，使得攻击DCR所需的成本高出很多。Decred支持者也发过文章叙述如果在相同的条件下跟比特币相比，[攻击Decred成本要比攻击比特币要贵20倍](https://medium.com/@guang.dcr/%E7%BF%BB%E8%AF%91-%E4%B8%80%E5%AF%B9%E4%B8%80%E6%AF%94%E8%BE%83-%E6%94%BB%E5%87%BBdecred%E8%A6%81%E6%AF%94%E6%94%BB%E5%87%BB%E6%AF%94%E7%89%B9%E5%B8%81-%E8%A6%81%E8%B4%B520%E5%80%8D-9d108a791e75)。
+* DCR的特有PoS+PoW混合共识机制，使得攻击DCR所需的成本高出很多。Decred支持者也发过文章叙述如果在相同的条件下跟比特币相比，[攻击Decred成本要比攻击比特币要贵20倍](https://medium.com/@guang.dcr/%E7%BF%BB%E8%AF%91-%E4%B8%80%E5%AF%B9%E4%B8%80%E6%AF%94%E8%BE%83-%E6%94%BB%E5%87%BBdecred%E8%A6%81%E6%AF%94%E6%94%BB%E5%87%BB%E6%AF%94%E7%89%B9%E5%B8%81-%E8%A6%81%E8%B4%B520%E5%80%8D-9d108a791e75)。
 
-3. 另外在和其他货币类对比表格里提到支付生态方面官网未列示其应用商家是不正确的。在[官网交易所页面底部](https://www.decred.org/exchanges/)列出了多个“Decred Payment Processors”。整合DCR支付已经非常方便，而且通过Livingroomofsatoshi,DCR可以用于支付很多澳大利亚账单。
+* 另外在和其他货币类对比表格里提到支付生态方面官网未列示其应用商家是不正确的。在[官网交易所页面底部](https://www.decred.org/exchanges/)列出了多个“Decred Payment Processors”。整合DCR支付已经非常方便，而且通过Livingroomofsatoshi,DCR可以用于支付很多澳大利亚账单。
 
 ### 技术分析
 
-1. 票池通过调整票价控制总选票数量。目标设立在40，960张，选票被选中投出的时间符合泊松概率分布，投票时间为：1-142天；平均投票时间为28天，28天内被选中的概率是50%；最长142天投出去；还有0.5%的概率票会过期。而目前(11月23日)票池数量是41，297张，所以票价为105.41DCR。47.1%的DCR被锁定。
+* 票池通过调整票价控制总选票数量。目标设立在40，960张，选票被选中投出的时间符合泊松概率分布，投票时间为：1-142天；平均投票时间为28天，28天内被选中的概率是50%；最长142天投出去；还有0.5%的概率票会过期。而目前(11月23日)票池数量是41，297张，所以票价为105.41DCR。47.1%的DCR被锁定。
 
 ![POSCHART](img/解析评级-DCR通过混合共识机制平衡权益分配｜标准共识评级/POSCHART.png)
 
 *锁定票数及DCR数稳定上涨。表示持币者对项目的信心稳定。*
 
-2. 从Github代码方面，评级指出了多个明显Decred项目比其他项目优秀的重要指标，包括更新频繁度，结构模块划分，甚至代码注释清晰。这些都可以突显DCR开发人员能力的重要指标。
+* 从Github代码方面，评级指出了多个明显Decred项目比其他项目优秀的重要指标，包括更新频繁度，结构模块划分，甚至代码注释清晰。这些都可以突显DCR开发人员能力的重要指标。
 
 ![DevSnapshot](img/解析评级-DCR通过混合共识机制平衡权益分配｜标准共识评级/DCRDevSnapshot.png)
 
@@ -44,7 +44,7 @@
 
 ### 社群基础
 
-1. 用户社区中漏掉了最大最活跃的社区。开发人员，承包商，贡献者和持币者在Slack社区和Matrix社区是最活跃的。在[十月份简报](https://github.com/xaur/decred-news/blob/master/journal/201810.md)中，Slack用户是6千多人。评级方居然漏掉了最大最活跃的社区，有点令人不可思议。
+* 用户社区中漏掉了最大最活跃的社区。开发人员，承包商，贡献者和持币者在Slack社区和Matrix社区是最活跃的。在[十月份简报](https://github.com/xaur/decred-news/blob/master/journal/201810.md)中，Slack用户是6千多人。评级方居然漏掉了最大最活跃的社区，有点令人不可思议。
 
 > Community stats:
 
@@ -59,26 +59,26 @@
 
 ### 团队分析
 
-1. Decred是一个开源项目，任职信息是Company 0的职位。虽然Company0 是DCR项目很大部分代码贡献者，很多其他开发者也参与其中。在Decred项目里面，并没有CEO CTO 等职位。具体参考[贡献者页面](https://www.decred.org/contributors/)
+* Decred是一个开源项目，任职信息是Company 0的职位。虽然Company0 是DCR项目很大部分代码贡献者，很多其他开发者也参与其中。在Decred项目里面，并没有CEO CTO 等职位。具体参考[贡献者页面](https://www.decred.org/contributors/)
 
 评级忽略了开源项目这点，把Company0和项目贡献者两方混淆了，同时也忽略了Decred采用的Contractor承包商制度。
 
 ### 基金会
 
-1. 基金会是有部分区块奖励（10%）筹集的。目前Company0通过DecredHoldingGroup象征性掌控资金。具体资金的掌控是通过Politeia提案系统慢慢交接到持币者手中。
+* 基金会是有部分区块奖励（10%）筹集的。目前Company0通过DecredHoldingGroup象征性掌控资金。具体资金的掌控是通过Politeia提案系统慢慢交接到持币者手中。
 
 ### 项目履约情况
 
-1. 目前投入使用的不止分析中提到的Politeia提案系统。
-2. SPV钱包整合已经完成。Decrediton也已经可以手动激活SPV选项。
-3. Decentralized Control of Funds - 去中心化管理资金 和 Decrediton 钱包整合 都已经部分完成。
-4. Marketing Growth - Politeia 提案系统月初对区块链最好的两家专业宣传公司的合作提案作出投票。最后[Ditto的提案](https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50)以62.32%同意票通过。
+* 目前投入使用的不止分析中提到的Politeia提案系统。
+* SPV钱包整合已经完成。Decrediton也已经可以手动激活SPV选项。
+* Decentralized Control of Funds - 去中心化管理资金 和 Decrediton 钱包整合 都已经部分完成。
+* Marketing Growth - Politeia 提案系统月初对区块链最好的两家专业宣传公司的合作提案作出投票。最后[Ditto的提案](https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50)以62.32%同意票通过。
 
 ### 项目信息披露义务
 
-1. 评级漏掉了Decred项目方最活跃的沟通渠道-Slack/Matrix
-2. 团队中大部分成员的履历信息都在[官网](https://www.decred.org/contributors/)上有链接。另外评级方把Decred和大部分ICO项目评级的方式，要求项目成员披露履历信息，个人觉得是不合理的。开源项目的精神就是不管任何人只要有合适的技能都能做出贡献。加上Decred未来有意开发匿名功能，所以对某些隐私信息保密是合理的。
-3. 评级提出Decred并未以周报形式更新项目进展和不定时发布进展信息 - 这点是不正确的。项目社区成员以[月报](https://github.com/xaur/decred-news/tree/master/journal)的形式推出进展总结已经超过六个月了。自从提案系统Politeia上线后，社区成员也准备了[Pi简报](https://github.com/RichardRed0x/politeia-digest)每周提供Pi最新消息。社区自主发动的这些更新消息可以看出社区的自发性和参与度。开发人员所有的贡献在Github里是非常透明化的，无需像ICO项目一样整理周报对社区（投资者）汇报。
+* 评级漏掉了Decred项目方最活跃的沟通渠道-Slack/Matrix
+* 团队中大部分成员的履历信息都在[官网](https://www.decred.org/contributors/)上有链接。另外评级方把Decred和大部分ICO项目评级的方式，要求项目成员披露履历信息，个人觉得是不合理的。开源项目的精神就是不管任何人只要有合适的技能都能做出贡献。加上Decred未来有意开发匿名功能，所以对某些隐私信息保密是合理的。
+* 评级提出Decred并未以周报形式更新项目进展和不定时发布进展信息 - 这点是不正确的。项目社区成员以[月报](https://github.com/xaur/decred-news/tree/master/journal)的形式推出进展总结已经超过六个月了。自从提案系统Politeia上线后，社区成员也准备了[Pi简报](https://github.com/RichardRed0x/politeia-digest)每周提供Pi最新消息。社区自主发动的这些更新消息可以看出社区的自发性和参与度。开发人员所有的贡献在Github里是非常透明化的，无需像ICO项目一样整理周报对社区（投资者）汇报。
 
 ### 总结 
 整体来说这份评级分析的还是很详细。对于遗漏的信息，希望评级方可以尽早修正，确保评级信息无误。
