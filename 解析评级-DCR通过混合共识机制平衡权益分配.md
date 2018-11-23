@@ -1,4 +1,6 @@
-# 解析评级 - [DCR 通过混合共识机制平衡权益分配｜标准共识评级](https://michelangelo.sncrating.com/report/168)
+# 解析评级 - DCR 通过混合共识机制平衡权益分配
+
+请先看[评级报告](https://michelangelo.sncrating.com/report/168)再看下文
 
 很久没看到有意思的DCR评级了。Decred这个项目也算是老项目了，评级不少机构也做过，很多做的也就那样。前两天看到了这篇觉得还是写的可以，决定来个短文评论一下。 
 
