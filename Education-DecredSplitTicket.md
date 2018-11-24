@@ -4,20 +4,20 @@
 
 我们先简单介绍几个关键词。 
 
-**选票** - Decred持币者可以选择通过把币锁定换取选票。持票者可以通过投票对Decred做出治理投票，也可以用于Politeia提案系统投票决定社区基金会的资金安排。
+* **选票** - Decred持币者可以选择通过把币锁定换取选票。持票者可以通过投票对Decred做出治理投票，也可以用于Politeia提案系统投票决定社区基金会的资金安排。
 
 Decred票价不固定（POS票池用算法尽量固定在40960张票左右，买票的人越多，票价越贵；买票的人越少，票价越便宜），投票时间浮动 （投中票时间是1-142天，平均28天中票，符合泊松概率分布）
 
-**PoS矿池** - 通过矿池，用户不需要保证钱包24小时在线。通过协议允许矿池代理的投票权，矿池对钱包资金没有权限，只是提供一个代理的服务，收取服务费。
+* **PoS矿池** - 通过矿池，用户不需要保证钱包24小时在线。通过协议允许矿池代理的投票权，矿池对钱包资金没有权限，只是提供一个代理的服务，收取服务费。
 
 目前支持分票的矿池有两个。
 1. https://decredvoting.com 
 2. https://stake.decredbrasil.com
 其他矿池信息可以参考[官网的矿池页面](https://www.decred.org/stakepools/) 
 
-**分票** - 让多个用户以少于整票的票价币数拼票参与PoS挖矿
+* **分票** - 让多个用户以少于整票的票价币数拼票参与PoS挖矿
 
-**Sessions** - 可翻译为时域。当多个用户参与一起购票时，称为一个session。每个session都有一个名字。所有参与分票的人都必须进入同一个session里才能购票成功。session名字是通过Slack群#ticket_splitting channel 或电报群沟通。 
+* **Sessions** - 可翻译为时域。当多个用户参与一起购票时，称为一个session。每个session都有一个名字。所有参与分票的人都必须进入同一个session里才能购票成功。session名字是通过Slack群#ticket_splitting channel 或电报群沟通。 
 
 在一个session中，参与者无法看到别的参与者资料，只能看到每个参与者的数额
 
@@ -45,4 +45,17 @@ Decred 的PoS概念主要是通过锁定币参与投票。购买整票的投票�
 
 ### 分票奖励 
 购买整票的用户在选票投出后将获得投票奖励。在分票情况下，用户将按照贡献比例分配投票奖励。
+ 
+
+
+### 关于作者 
+中文社区 @Guang
+
+[Medium](https://medium.com/@guang.dcr)<br/>
+Telegram: @GuangGuang<br/>
+Matrix: @guang:decred.org
+
+欢迎反馈至[Github](https://github.com/Guang168)或联系作者
+ 
+ 
  
