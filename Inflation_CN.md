@@ -8,17 +8,17 @@
 * 30% 奖励给 该区块的PoS 选民 （5名选民每位6%）
 * 10% 奖励给 基金会
 
-区块奖励开始为31.19582664 DCR， 每 6,144区块 调整（约21.33天），按比例100/101减少[^1]。
+区块奖励开始为31.19582664 DCR， 每 6,144区块 调整（约21.33天），按[比例100/101减少](https://docs.decred.org/advanced/blockchain-parameters/#blockchain-parameters_1)。
 
 如果一个区块包含少于5个PoS票，则会有一小部分区块奖励不分配给任何人。因此，只能计算将要创建的已投放总数的上限。
 
-> 最后的区块奖励将于2120年9月创建.Decred 的总供应量上限为20,999,999.99800912个币[^2]。
+> 最后的区块奖励将于2120年9月创建.Decred 的总供应量上限为[20,999,999.99800912个币](https://github.com/decred/dcrd/blob/5076a00512a521cea3c51b443b50970804dbe712/blockchain/subsidy_test.go#L52-L54)。
 
 下面的图表显示了随时间变化的DCR币供应增长的估算。
 
 ![Decred supply chart](/img/Inflation_CN/decred_supply.png)
 
-下表显示了直到2039年（第2,457,600区块）预计的（部分）区块奖励和预计的总供应量。注意的是第一区块的奖励是1，1680，000。这是部分[预挖](https://docs.decred.org/faq/general/#3-how-was-the-decred-premine-distributed)的原因。 PoS 投票在第4096[^3]区块开始，因此在该区块高度之前没有产生任何PoS奖励。
+下表显示了直到2039年（第2,457,600区块）预计的（部分）区块奖励和预计的总供应量。注意的是第一区块的奖励是1，1680，000。这是部分[预挖](https://docs.decred.org/faq/general/#3-how-was-the-decred-premine-distributed)的原因。 [PoS 投票在第4096](https://docs.decred.org/advanced/blockchain-parameters/#pos-network-parameters)区块开始，因此在该区块高度之前没有产生任何PoS奖励。
 
 
 区块高度 | 预算日期     | 区块奖励 (DCR) | PoW (DCR)    | PoS 投票 (DCR) | Decred 基金会 (DCR) |  DCR 流通量
@@ -429,8 +429,4 @@
 
 ---
 
-# Sources 
-
-[^1]: [区块链参数](blockchain-parameters.md#blockchain-parameters_1)
-[^2]: GitHub,[decred/dcrd](https://github.com/decred/dcrd/blob/5076a00512a521cea3c51b443b50970804dbe712/blockchain/subsidy_test.go#L52-L54)
-[^3]: [PoS网络参数](blockchain-parameters.md#pos-network-parameters)
+原文参照[Decred Documentation](https://docs.decred.org/advanced/inflation/)
