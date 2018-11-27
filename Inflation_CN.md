@@ -432,5 +432,5 @@
 # Sources 
 
 [^1]: [区块链参数](blockchain-parameters.md#blockchain-parameters_1)
-[^2]: GitHub, [decred/dcrd](https://github.com/decred/dcrd/blob/5076a00512a521cea3c51b443b50970804dbe712/blockchain/subsidy_test.go#L52-L54)
-[^3]: [PoS 网络参数](blockchain-parameters.md#pos-network-parameters)
+[^2]: GitHub,[decred/dcrd](https://github.com/decred/dcrd/blob/5076a00512a521cea3c51b443b50970804dbe712/blockchain/subsidy_test.go#L52-L54)
+[^3]: [PoS网络参数](blockchain-parameters.md#pos-network-parameters)
