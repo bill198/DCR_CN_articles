@@ -68,7 +68,16 @@ Decred的贡献者分布在许多国家：美国，巴西，斯洛文尼亚，�
 ## 总结
 我们很高兴可以扩大Decred的贡献者／承包商群，并继续建立我们的数字货币生态系统。我们鼓励感兴趣的各方通过[社交媒体](https://decred.org/community/)与 [Noah](https://medium.com/@NoahPierau) / Haon联系，以进一步询问。同时也欢迎随时在评论区留言。
 
-### 关于作者 
+## 笔记
+最近2018年底上线的提案系统上线后，其中一个提案跟这篇文章息息相关。里面提到的DCC流程和上述提到的或许有些差异，在DCC上线后流程可能某程度上有些改变，但是这里希望强调的是对于贡献者／承包商的要求和核心工作原则会依然适用。
+
+> **[Decred Contractor Clearance Process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4)** 
+
+>* 投票结束 - 11月21日 **通过**
+>* 法定票数：13228/8173 票，13206 通过(95.71%) 
+>* 提案建议设立 Decred Contractor Clearance (DCC) 为服务商作为对项目参与及贡献的条件。获取DCC必需要有 3个合格服务商／贡献者担保有相关工作需要的技能。相同的，撤掉服务商资格也只需要3个合格服务商／贡献者投票撤除。
+
+## 关于作者 
 编译 ：@Guang
 
 [Medium](https://medium.com/@guang.dcr)<br/>
